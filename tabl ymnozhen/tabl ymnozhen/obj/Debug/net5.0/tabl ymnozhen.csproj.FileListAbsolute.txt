@@ -1,0 +1,16 @@
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\tabl ymnozhen.exe
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\tabl ymnozhen.deps.json
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\tabl ymnozhen.runtimeconfig.json
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\tabl ymnozhen.runtimeconfig.dev.json
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\tabl ymnozhen.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\ref\tabl ymnozhen.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\bin\Debug\net5.0\tabl ymnozhen.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.AssemblyInfoInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.AssemblyInfo.cs
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\ref\tabl ymnozhen.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\tabl ymnozhen\tabl ymnozhen\tabl ymnozhen\obj\Debug\net5.0\tabl ymnozhen.genruntimeconfig.cache
